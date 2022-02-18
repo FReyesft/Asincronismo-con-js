@@ -1,0 +1,29 @@
+{
+  "name": "asincronismo-con",
+  "version": "1.0.0",
+  "description": "trabajar con asincronismo en JavaScript",
+  "main": "src/callback/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js",
+    "callback:challenge": "node src/callback/challenge.js",
+    "promise": "node src/promise/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FReyesft/Asincronismo-con-js.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promises",
+    "async"
+  ],
+  "author": "FReyesft",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FReyesft/Asincronismo-con-js/issues"
+  },
+  "homepage": "https://github.com/FReyesft/Asincronismo-con-js#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
